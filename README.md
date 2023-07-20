@@ -18,3 +18,7 @@
 # 2 sep: Texto usado na separação dos argumentos recebidos.
 
 # 3 end: Texto impresso no final da execução da função.
+
+18
+16,
+page
